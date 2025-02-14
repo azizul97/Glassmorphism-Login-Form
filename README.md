@@ -8,13 +8,12 @@ Features:
 ✅ Smooth hover effects on the login button.
 ✅ User-friendly design with intuitive input fields.
 
-Installation & Setup:
+🔹 Installation & Setup:
 
 🔹 Clone the Repository
 git clone https://github.com/azizul97/Glassmorphism-Login-Form.git cd Glassmorphism-Login-Form
 
-Run the Project
-
+🔹 Run the Project:
 Simply open index.html in your browser.
 
 📸 Demo Preview:
